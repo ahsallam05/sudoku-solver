@@ -7,7 +7,7 @@ from sudoku_logic import new_game, solve, check_solution
 BG_MAIN        = "#1a1a2e"
 BG_GRID        = "#16213e"
 BG_BOX_LIGHT   = "#0f3460"
-BG_BOX_DARK    = "#16213e"
+BG_BOX_DARK    = "#0f3460"
 BG_CELL_GIVEN  = "#0f3460"
 BG_CELL_USER   = "#1a1a2e"
 BG_CELL_SELECT = "#e94560"
